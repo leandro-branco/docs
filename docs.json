@@ -14,34 +14,6 @@
         "version": "1.0.0",
         "groups": [
           {
-            "group": "Getting Started",
-            "pages": ["v1/overview", "v1/quickstart", "v1/development"]
-          }
-        ]
-      },
-      {
-        "version": "2.0.0",
-        "groups": [
-          {
-            "group": "Getting Started",
-            "pages": ["v2/overview", "v2/quickstart", "v2/development"]
-          }
-        ]
-      }
-    ],
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": [
-              "introduction",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
@@ -55,22 +27,16 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "version": "2.0.0",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Get Started",
             "pages": [
-              "api-reference/introduction"
+              "introduction",
+              "quickstart",
+              "development"
             ]
           },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete"
-            ]
-          }
         ]
       }
     ],
