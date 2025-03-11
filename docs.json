@@ -9,6 +9,26 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "versions": [
+      {
+        "version": "1.0.0",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": ["v1/overview", "v1/quickstart", "v1/development"]
+          }
+        ]
+      },
+      {
+        "version": 2.0.0",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": ["v2/overview", "v2/quickstart", "v2/development"]
+          }
+        ]
+      }
+    ],
     "tabs": [
       {
         "tab": "Guides",
